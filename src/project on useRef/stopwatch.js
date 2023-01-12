@@ -1,3 +1,4 @@
+// Hooks used
 import { useState, useRef } from "react";
 
 function Stopwatch() {
